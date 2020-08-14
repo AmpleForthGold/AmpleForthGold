@@ -1,16 +1,17 @@
-### Hi there 👋
+# The AmpleForthGold Project  
 
-<!--
-**AmpleForthGold/AmpleForthGold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Synthetic Gold Using Ampleforth Technology.
 
-Here are some ideas to get you started:
+## Project Goals
+[**The Gold Paper.**](https://github.com/AmpleForthGold/AmpleForthGold/blob/master/GoldPaper.md)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contracts
+This repository is a collection of smart contracts that implement the AmpleForthGold protocol on the Ethereum blockchain.
+### Mainnet (Etherium Blockchain)
+#### ERC20 Tocken Location
+(contract proxy interface) [0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734](https://etherscan.io/address/0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734).
+
+(contract implemntation) [0x64cb197240876c32e68d2d17b405b7bf92ed523f](https://etherscan.io/address/0x64cb197240876c32e68d2d17b405b7bf92ed523f).
+
+
+

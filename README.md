@@ -3,9 +3,7 @@
 Synthetic Gold Using Ampleforth Technology.
 
 ## Project Goals
-[**The Gold Paper.**](https://github.com/AmpleForthGold/AmpleForthGold/blob/master/GoldPaper.md)
-
-AmpleForthGold (aka uFragments) is a decentralized elastic supply protocol. It maintains a stable unit price by adjusting supply directly to and from wallet holders. You can read [**The Gold Paper.**](https://github.com/AmpleForthGold/AmpleForthGold/blob/master/GoldPaper.md) for the motivation and a complete description of the protocol.
+AmpleForthGold is a decentralized elastic supply protocol based on the [*Ampleforth/uFragments*](https://github.com/ampleforth/uFragments) Implementation. It maintains a stable unit price by adjusting supply directly to and from wallet holders. You can read [**The Gold Paper.**](https://github.com/AmpleForthGold/AmpleForthGold/blob/master/GoldPaper.md) for the motivation and a complete description of the protocol.
 
 ## Contracts
 This repository is a collection of smart contracts that implement the AmpleForthGold protocol on the Ethereum blockchain.

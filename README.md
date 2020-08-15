@@ -11,7 +11,7 @@ On this date Ampleforth tokens will be available for purchase. Initial liquidity
 ### 2020/09/15 The Rebasement begins
 Rebasement of the AAU tokens to the price of one ounce of Gold shall begin. This shall affect the quanitity of token you hold, but does not affect the percentage of the market cap you hold. See the original [*Ampleforth Whitepaper*](https://www.ampleforth.org/papers/) for details.
 ### 2020/10/15 Midas Launches
-Most 90%+ of AmpleForthGold tokens will (eventually) be distributed to the holders of AmpleForthGold tokens via Midas. Read [**the Gold Paper**](https://github.com/AmpleForthGold/AmpleForthGold/blob/master/GoldPaper.md) for details on distribution of tokens.   
+Most (90%+) AmpleForthGold tokens will (eventually) be distributed to the holders of AmpleForthGold tokens via Midas. Read [**the Gold Paper**](https://github.com/AmpleForthGold/AmpleForthGold/blob/master/GoldPaper.md) for details on midas and the distribution of tokens.   
 
 ## Contracts
 This repository is a collection of smart contracts that implement the AmpleForthGold protocol on the Ethereum blockchain.

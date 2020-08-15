@@ -23,7 +23,7 @@ This repository is a collection of smart contracts that implement the AmpleForth
 ## Token Holders
 |Holder|Quantity|Address|
 |:---|:---|:---|
-|Founders (for Midas)|45000000| [	0x0f9dd348cdbde17f27f63d4a985f70c2e2beedd5](https://etherscan.io/token/0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734?a=0x0f9dd348cdbde17f27f63d4a985f70c2e2beedd5)|
+|Founders (Midas)|45000000| [	0x0f9dd348cdbde17f27f63d4a985f70c2e2beedd5](https://etherscan.io/token/0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734?a=0x0f9dd348cdbde17f27f63d4a985f70c2e2beedd5)|
 |Founders (Uniswap Liquidity) |5000000| [	0x173015cf1260f1fa024bde2e08845aed61c99e3b](https://etherscan.io/token/0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734?a=0x173015cf1260f1fa024bde2e08845aed61c99e3b)|
 
 

@@ -6,11 +6,11 @@ Synthetic Gold Using Ampleforth Technology.
 AmpleForthGold is a decentralized elastic supply protocol based on the [*Ampleforth/uFragments*](https://github.com/ampleforth/uFragments) Implementation. It maintains a stable unit price by adjusting supply directly to and from wallet holders. You can read [**the Gold Paper**](https://github.com/AmpleForthGold/AmpleForthGold/blob/master/GoldPaper.md) for the motivation and a complete description of the protocol.
 
 ## Key Dates
-### 2020/08/05 Initial Liquidity
+### 2020/08/05 Initial Token sale, initial liquidity available.
 On this date Ampleforth tokens will be available for purchase. Initial liquidity will go live on [*UniSwap*](https://uniswap.org/) 25th August 2020. This will be 10% of the AAU tokens in existance. The tokens will not be rebased initially. The tokens will be freely available to all. Read [**the Gold Paper**](https://github.com/AmpleForthGold/AmpleForthGold/blob/master/GoldPaper.md) for details on distribution of tokens.  
-### 2020/09/15 Rebasement begins
+### 2020/09/15 The Rebasement begins
 Rebasement of the AAU tokens to the price of one ounce of Gold shall begin. This shall affect the quanitity of token you hold, but does not affect the percentage of the market cap you hold. See the original [*Ampleforth Whitepaper*](https://www.ampleforth.org/papers/) for details.
-### 2020/09/15 Midas Launches
+### 2020/10/15 Midas Launches
 Most 90%+ of AmpleForthGold tokens will (eventually) be distributed to the holders of AmpleForthGold tokens via Midas. Read [**the Gold Paper**](https://github.com/AmpleForthGold/AmpleForthGold/blob/master/GoldPaper.md) for details on distribution of tokens.   
 
 ## Contracts

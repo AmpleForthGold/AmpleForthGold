@@ -7,11 +7,11 @@ AmpleForthGold is a decentralized elastic supply protocol based on the [*Amplefo
 
 ## Key Dates
 ### 2020/08/25 Initial Token sale, initial liquidity available.
-On this date Ampleforth tokens will be available for purchase. Initial liquidity will go live on [*UniSwap*](https://uniswap.org/) 25th August 2020. This will be 10% of the AAU tokens in existance. The tokens will not be rebased initially. The tokens will be freely available to all. Read [**the Gold Paper**](https://github.com/AmpleForthGold/AmpleForthGold/blob/master/GoldPaper.md) for details on distribution of tokens.  
+On the above date, Ampleforth tokens will be available for purchase. Initial liquidity will go live on [*UniSwap*](https://uniswap.org/) on 25th August 2020. This will be 10% of the AAU tokens in existence. The tokens will not be rebased initially and will be freely available to all. Read [**the Gold Paper**](https://github.com/AmpleForthGold/AmpleForthGold/blob/master/GoldPaper.md) for details on the distribution of tokens.  
 ### 2020/09/15 The Rebasement begins
-Rebasement of the AAU tokens to the price of one ounce of Gold shall begin. This shall affect the quanitity of token you hold, but does not affect the percentage of the market cap you hold. See the original [*Ampleforth Whitepaper*](https://www.ampleforth.org/papers/) for details.
+Rebasement of the AAU tokens to the price of one ounce of Gold shall begin. This shall affect the quantity of token you hold, but does not affect the percentage of the market cap you hold. See the original [*Ampleforth Whitepaper*](https://www.ampleforth.org/papers/) for details.
 ### 2020/10/15 Midas Launches
-Most (90%+) AmpleForthGold tokens will (eventually) be distributed to the holders of AmpleForthGold tokens via Midas. Read [**the Gold Paper**](https://github.com/AmpleForthGold/AmpleForthGold/blob/master/GoldPaper.md) for details on midas and the distribution of tokens.   
+Most (90%+) AmpleForthGold tokens will (eventually) be distributed to the holders of AmpleForthGold tokens via Midas. Read [**the Gold Paper**](https://github.com/AmpleForthGold/AmpleForthGold/blob/master/GoldPaper.md) for details on Midas and the distribution of tokens.   
 
 ## Contracts
 This repository is a collection of smart contracts that implement the AmpleForthGold protocol on the Ethereum blockchain.

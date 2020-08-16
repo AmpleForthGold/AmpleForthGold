@@ -1,7 +1,10 @@
 # *AAU*
 ## The AmpleForthGold Gold Paper 
+*AmpleForthGold: A new synthetic gold commodity.*
+
 ### License
 Document license: `GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007`.
+
 ### Introduction
 
 We believe in the novel [Ampleforth](http://ampleforth.org) stable coin. However, it may be noted that a valued physical commodity (not a fiat currency) should be the foundation of any stable coin. On that note, we believe gold best suits this purpose. In the light of this simple idea the [AmpleForth.Gold](http://ampleforth.gold) project has been formed.

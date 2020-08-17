@@ -3,7 +3,7 @@
 Synthetic Gold forged using Ampleforth technology.
 
 ## Project Goals
-AmpleForthGold is a decentralized elastic supply protocol based on the [*Ampleforth/uFragments*](https://github.com/ampleforth/uFragments) Implementation. It maintains a stable unit price by adjusting supply directly to and from wallet holders. You can read [**the Gold Paper**](https://github.com/AmpleForthGold/AmpleForthGold/blob/master/GoldPaper.md) for the motivation and a complete description of the protocol.
+AmpleForthGold is a decentralized elastic supply protocol based on the [*Ampleforth/uFragments*](https://github.com/ampleforth/uFragments) Implementation. It maintains a stable unit price by adjusting supply directly to and from wallet holders. For a complete description of the protocol and the rationale behind the project you can read [**the Gold Paper**](https://github.com/AmpleForthGold/AmpleForthGold/blob/master/GoldPaper.md).
 
 ## Key Dates
 ### 2020/08/25 Initial Token sale, initial liquidity available.

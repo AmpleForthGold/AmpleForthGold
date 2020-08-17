@@ -6,7 +6,7 @@
 Document license: `GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007`.
 
 ### Warnings
-AmpleForthGold is going through its experimental phase. It is an experimental new currency/token that is in active development. Although each improvement makes AmpleForthGold more appealing, it reveals new challenges owing to its growing adoption & use. There is no guarantee that this experiment will work. As a precautionary measure, one has to be aware that when investing in AmpleForthGold during this developmental phase you might encounter increased fees, slower confirmations, or even more severe issues including partial or complete loss of funds. 
+AmpleForthGold is going through its experimental phase. It is an experimental new currency/token that is in active development. Although each improvement makes AmpleForthGold more appealing, it reveals new challenges owing to its growing adoption & use. There is no guarantee that this experiment will work. As a precautionary measure, one has to be aware that when investing in AmpleForthGold during this developmental stage you might encounter increased fees, slower confirmations, or even more severe issues including partial or complete loss of funds. 
 
 ### Introduction
 

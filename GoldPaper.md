@@ -54,6 +54,21 @@ We do not believe in pre-mining, distributing coins to developers, founders or i
        * Accounts held for more than 365 days shall have a 50% bonus.
 3. Once **Midas** has distributed more than 10% of the [**AAU**](http://ampleforth.gold) tokens and the available liquidity in [**UniSwap**](https://uniswap.org/) exceeds 15% of the total [**AAU**](http://ampleforth.gold) tokens, the founders shall remove their 10% of liquidity in a staggered process: They shall remove the liquidity in 5 equal transactions spread equally over 5 months. The founders shall gift all [**AAU**](http://ampleforth.gold) tokens from this event to **Midas** for distribution. The founders shall keep their initial ETH deposit.
 
+### Rebase Functionality
+#### The cost of Gas
+The price of ETH (and the price of gas) has recently increased significantly. Each rebase operation requires gas that is a weekly fixed cost on the project. For this reason, the amount of gas used in a rebase operation needs to be minimised via either simplifying the contract in this area and/or removing (as much as possible) of the rebase calculations off-chain. 
+#### Timing
+Fixed rebase timing (rebasing at the same time every day) allows traders to trade around the rebase event to the detriment of the wider community.  For this reason, rebase operations shall be performed at random times. There shall be 5 rebasements per week spread randomly over the week.
+#### Initial Rebase
+The initial rebase shall adjust the price of 1 AmpleForthGold token to the current price of one ounce of gold. It shall be rather brutal.
+#### Subsequent Rebase operations
+Rebasement will not occur if the target price is within 5% of the current price. Rebasement shall only move the price by (at most) 5%. 
+#### On-Chain minimalists
+Each rebase requires a human (or a machine controlled by a human) to provide information (gold price etc) to the smart contract. If the price feed comes from a human, then anything that is derived from that also comes from that human. 
+
+### Code Reviews and Audits
+The Solidity contracts that make up AmpleForthGold have not been independently reviewed. The contracts are open source and are available for review on the [project GitHub page](https://github.com/AmpleForthGold/uFragments). The original Ampleforth project performed an independent review of their projects Solidity contracts. The AmpleForthGold Solidity contracts have only minor changes to them from the original Ampleforth project - and those changes can be easily reviewed on GitHub.  
+
 ### The founders
  
 The founders shall not be gifted any equity stake in this project (no pre-mine) as all [**AAU**](http://ampleforth.gold) tokens shall (eventually) be distributed by **Midas**. The founders hope that (just like bitcoin) the first users and first supporters of this project has the opportunity to profit from it. 

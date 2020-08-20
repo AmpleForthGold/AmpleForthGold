@@ -24,7 +24,7 @@ The [AmpleForth.Gold](http://ampleforth.gold) project shall use [**AAU**](http:/
 
 ### Project Goals
 1. Support the original [Ampleforth](http://ampleforth.org) project.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>The [**AAU**](http://ampleforth.gold) project can only succeed if the original [Ampleforth](http://ampleforth.org) project succeeds. It is in this projects best interest to support and help the original [Ampleforth](http://ampleforth.org) project to succeed and grow. Their success is our success.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>The [**AAU**](http://ampleforth.gold) project can only succeed if the original [Ampleforth](http://ampleforth.org) project succeeds. It is in this project's best interest to support and help the original [Ampleforth](http://ampleforth.org) project to succeed and grow. Their success is our success.</p>
 2. Provide a new implementation of the original [Ampleforth](http://ampleforth.org) project that uses gold oracles.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>The original [Ampleforth](http://ampleforth.org) project uses US$ oracles to maintain the price of the [Ampleforth](http://ampleforth.org) Token at approximately US$1. We shall replace this oracle to use [**ChainLink**](https://defi.chain.link/) Gold oracles based on the GOLD exchange rate (the price of one ounce of Gold at rebasement time). By using this we have a token that is priced in gold but is not linked to the US$ or any other (unstable) fiat currency.</p>
 3. Otherwise use the process and procedures of the original Ampleforth project.

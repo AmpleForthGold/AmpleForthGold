@@ -1,8 +1,8 @@
 # *AAU*
-## The AmpleForthGold Gold Paper 
+## The AmpleForthGold Gold Paper
 *AmpleForthGold: A new synthetic gold commodity.*
 
- ### Introduction
+### Introduction
 
 We believe in the novel [Ampleforth](http://ampleforth.org) stable coin. However, it may be noted that a valued physical commodity (not a fiat currency) should be the foundation of any stable coin. On that note, we believe gold best suits this purpose. In the light of this simple idea the [AmpleForth.Gold](http://ampleforth.gold) project has been formed.
 
@@ -11,7 +11,7 @@ Unlike fiat currencies that come and go, gold has been around throughout written
 
 > <p>"Our view is that gold is only appropriate if you have a very strong view that the U.S. dollar is going to be debased. We don’t have that view. We think the dollar maintains its status as the reserve currency. The dollar can cheapen a little bit because it’s moderately overvalued but that doesn’t mean that it’s going to be debased, that we are going to have huge inflation and that gold is a good substitute."<br><br> - CIO Goldman Sachs, 6th August 2020.</p>
 
-We disagree with Goldman Sachs view. It is apparent that due to abuse of the printing press at the US federal reserve we are indeed on the cusp of a substantial US$ debasement event and the associated inflation. The core idea behind AmpleForthGold is to provide a safe haven for the stable and valued commodity which is Gold.   
+We disagree with Goldman Sachs view. It is apparent that due to abuse of the printing press at the US federal reserve we are indeed on the cusp of substantial US$ debasement event and the associated inflation. The core idea behind AmpleForthGold is to provide a safe haven for the stable and valued commodity which is Gold.   
 
 ### The AAU Ticker Symbol
 The [AmpleForth.Gold](http://ampleforth.gold) project shall use [**AAU**](http://ampleforth.gold) as it's ticker symbol on exchanges such as [UniSwap](https://uniswap.org/). [**AAU**](http://ampleforth.gold) is synonymous with [AmpleForth.Gold](http://ampleforth.gold)
@@ -32,7 +32,7 @@ The [AmpleForth.Gold](http://ampleforth.gold) project shall use [**AAU**](http:/
 ### Initial Coin Distribution
 We do not believe in pre-mining, distributing coins to developers, founders or investors. We would like to distribute this coin to the masses as fairly as possible. To accomplish this the following distribution strategy shall be followed:
 
-1. The founders shall provide 10,000.00USD of ETH to this project to provide initial market liquidity. This will be matched with 10% of the total supply of [**AAU**](http://ampleforth.gold) and placed in Uniswap as initial liquidity. The initial quantity of [**AAU**](http://ampleforth.gold) tokens shall match the Gold price on the day that liquidity is provided.
+1. The founders shall provide $10,000.00 USD of ETH to this project to provide initial market liquidity. This will be matched with 10% of the total supply of [**AAU**](http://ampleforth.gold) and placed in Uniswap as initial liquidity. The initial quantity of [**AAU**](http://ampleforth.gold) tokens shall match the Gold price on the day that liquidity is provided.
 2. The [*Ampleforth Geyser*](https://www.ampleforth.org/dapps/) shall be re-used and renamed **Midas**. **Midas** shall be gifted 90% of tokens once liquidity has been provided. **Midas** shall distribute those tokens and provide enhanced market liquidity. **Midas** shall distribute based on the percentage of the pool that each depositor provides. The following rules shall apply:
     * **Midas** shall distribute 0.5% of its total tokens each day. This implies that the frequency of distribution would occur as follows:
        * Approximately 3.4% of tokens would be distributed in the first week. 
@@ -41,12 +41,12 @@ We do not believe in pre-mining, distributing coins to developers, founders or i
        * Approximately 83% of tokens would be distributed in the first year. 
        * Approximately 96% of tokens would be distributed within the first 2 years. 
        * Approximately 98% of tokens would be distributed within the first 3 years.     
-    * **Midas** shall distribute [**AAU**](http://ampleforth.gold) tokens to all depositors equally. However, to encourage holding and provide liquidity, some deposit holders shall be more equal than others. Specifically:
-       * Accounts held for more than 7 days shall have a 10% bonus.
-       * Accounts held for more than 28 days shall have a 20% bonus.
-       * Accounts held for more than 168 days shall have a 30% bonus.
-       * Accounts held for more than 365 days shall have a 50% bonus.
-3. Once **Midas** has distributed more than 10% of the [**AAU**](http://ampleforth.gold) tokens and the available liquidity in [**UniSwap**](https://uniswap.org/) exceeds 15% of the total [**AAU**](http://ampleforth.gold) tokens, the founders shall remove their 10% of liquidity in a staggered process: They shall remove the liquidity in 5 equal transactions spread equally over 5 months. The founders shall gift all [**AAU**](http://ampleforth.gold) tokens from this event to **Midas** for distribution. The founders shall keep their initial ETH deposit.
+    * **Midas** shall distribute [**AAU**](http://ampleforth.gold) to all depositors equally. However, to encourage holding and provide liquidity, some deposit holders shall be more equal than others. Specifically:
+       * Accounts held for more then 7 days shall have a 10% bonus.
+       * Accounts held for more then 28 days shall have a 20% bonus.
+       * Accounts held for more then 168 days shall have a 30% bonus.
+       * Accounts held for more then 365 days shall have a 50% bonus.
+3. Once **Midas** has distributed more than 10% of the [**AAU**](http://ampleforth.gold) tokens, and the available liquidity in [**UniSwap**](https://uniswap.org/) exceeds 15% of the total [**AAU**](http://ampleforth.gold) tokens, the founders shall remove their 10% of liquidity in a staggered process: They shall remove the liquidity in 5 equal transactions spread equally over 5 months. The founders shall gift all [**AAU**](http://ampleforth.gold) tokens from this event to **Midas** for distribution. The founders shall keep their initial ETH deposit.
 
 ### Rebase Functionality
 #### The cost of Gas
@@ -57,11 +57,11 @@ Fixed rebase timing (rebasing at the same time every day) allows traders to trad
 The initial rebase shall adjust the price of 1 AmpleForthGold token to the current price of one ounce of gold. It shall be rather brutal.
 #### Subsequent Rebase operations
 Rebasement will not occur if the target price is within 5% of the current price. Rebasement shall only move the price by (at most) 5%. 
-#### On-Chain minimalists
-Each rebase requires a human (or a machine controlled by a human) to provide information (gold price etc) to the smart contract. If the price feed comes from a human, then anything that is derived from that also comes from that human. 
+#### On-Chain minimalists, lowering attack vectors
+Each rebase requires a human (or a machine controlled by a human) to provide information (gold price etc) to the smart contract. If the price feed comes from a human, then anything that is derived from that also comes from that human. For this reason the entry points for rebases has been minimised to a sigle raw entry point (the function `rebase()` in `UFragments.sol` with the bulk of the processing done off chain. The original Ampleforth project has this exact interface (they remain identical), but also has a significantly larger attack vector thru the use of the contracts: `UFragmentsPolicy.sol`, `Orgestrator.sol` and various other oracle contracts (some of which source has not been provided). 
 
 ### Code Reviews and Audits
-The Solidity contracts that make up AmpleForthGold have not been independently reviewed. The contracts are open source and are available for review on the [project GitHub page](https://github.com/AmpleForthGold/uFragments). The original Ampleforth project performed an independent review of their projects Solidity contracts. The AmpleForthGold Solidity contracts have only minor changes to them from the original Ampleforth project - and those changes can be easily reviewed on GitHub.  
+The Solidity contracts that make up AmpleForthGold have not been independently reviewed. The contracts are open source and are available for review on the [project GitHub page](https://github.com/AmpleForthGold/uFragments). The original Ampleforth project performed an independent review of their projects Solidity contracts. The AmpleForthGold Solidity contracts have only minor changes to them from the original Ampleforth project - and those changes can be easily reviewed on GitHub or in [etherscan.io](https://etherscan.io/).  
 
 ### The founders
  
@@ -73,4 +73,4 @@ The founders have decided to remain anonymous for various legal, geographical, p
 Document license: `GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007`.
 
 ### Warnings
-AmpleForthGold is going through its experimental phase. It is an experimental new currency/token that is in active development. Although each improvement makes AmpleForthGold more appealing, it reveals new challenges owing to its growing adoption & use. There is no guarantee that this experiment will work. As with any investment, one has to be aware that when investing in AmpleForthGold during this developmental stage you might encounter increased fees, slower confirmations, or even more severe issues including partial or complete loss of funds.
+AmpleForthGold is going through an experimental development phase. It is an experimental new currency/token that is in active development. Each improvement makes AmpleForthGold more appealing, but it also reveals new challenges owing to its growing adoption & use. There is no guarantee that this experiment will work. As with any investment, one has to be aware that when investing in AmpleForthGold during this developmental stage you might encounter increased fees, slower confirmations, or even more severe issues including partial or complete loss of funds.

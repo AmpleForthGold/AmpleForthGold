@@ -2,13 +2,7 @@
 ## The AmpleForthGold Gold Paper 
 *AmpleForthGold: A new synthetic gold commodity.*
 
-### License
-Document license: `GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007`.
-
-### Warnings
-AmpleForthGold is going through its experimental phase. It is an experimental new currency/token that is in active development. Although each improvement makes AmpleForthGold more appealing, it reveals new challenges owing to its growing adoption & use. There is no guarantee that this experiment will work. As a precautionary measure, one has to be aware that when investing in AmpleForthGold during this developmental stage you might encounter increased fees, slower confirmations, or even more severe issues including partial or complete loss of funds. 
-
-### Introduction
+ ### Introduction
 
 We believe in the novel [Ampleforth](http://ampleforth.org) stable coin. However, it may be noted that a valued physical commodity (not a fiat currency) should be the foundation of any stable coin. On that note, we believe gold best suits this purpose. In the light of this simple idea the [AmpleForth.Gold](http://ampleforth.gold) project has been formed.
 
@@ -74,3 +68,9 @@ The Solidity contracts that make up AmpleForthGold have not been independently r
 The founders shall not be gifted any equity stake in this project (no pre-mine) as all [**AAU**](http://ampleforth.gold) tokens shall (eventually) be distributed by **Midas**. The founders hope that (just like bitcoin) the first users and first supporters of this project has the opportunity to profit from it. 
 
 The founders have decided to remain anonymous for various legal, geographical, personal, and political reasons. 
+
+### License
+Document license: `GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007`.
+
+### Warnings
+AmpleForthGold is going through its experimental phase. It is an experimental new currency/token that is in active development. Although each improvement makes AmpleForthGold more appealing, it reveals new challenges owing to its growing adoption & use. There is no guarantee that this experiment will work. As with any investment, one has to be aware that when investing in AmpleForthGold during this developmental stage you might encounter increased fees, slower confirmations, or even more severe issues including partial or complete loss of funds.

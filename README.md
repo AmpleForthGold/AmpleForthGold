@@ -8,7 +8,7 @@ AmpleForthGold is a decentralized elastic supply protocol based on the [*Amplefo
 ## Website
 The official [**AmpleForthGold**](https://ampleforth.gold/) website can be found [here](https://ampleforth.gold/). 
 
-## Purchase of AAU tokens
+## Purchase of AmpleForthGold AAU ERC20 tokens
 AmpleForthGold AAU ERC20 tokens can be purchased on [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734). 
 
 ## Key Dates
@@ -19,6 +19,7 @@ Exact time shall be 12:12am NZST on 25th August 2020.
 
 ### 2020/09/15 The Rebasement begins
 Rebasement of the AAU tokens to the price of one ounce of Gold shall begin. This shall affect the quantity of token you hold, but does not affect the percentage of the market cap you hold. See the original [*Ampleforth Whitepaper*](https://www.ampleforth.org/papers/) for details.
+
 ### 2020/10/15 Midas Launches
 Most (90%+) AmpleForthGold tokens will (eventually) be distributed to the holders of AmpleForthGold tokens via Midas. Read [**the Gold Paper**](https://raw.githubusercontent.com/AmpleForthGold/AmpleForthGold/master/TheGoldPaper.pdf) for details on Midas and the distribution of tokens.   
 

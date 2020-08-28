@@ -5,9 +5,15 @@ Synthetic Gold forged using Ampleforth technology.
 ## Project Goals
 AmpleForthGold is a decentralized elastic supply protocol based on the [*Ampleforth/uFragments*](https://github.com/ampleforth/uFragments) Implementation. It maintains a stable unit price in gold by adjusting supply directly to and from wallet holders. For a complete description of the protocol and the rationale behind the project, you can read [**the Gold Paper**](https://raw.githubusercontent.com/AmpleForthGold/AmpleForthGold/master/TheGoldPaper.pdf).
 
+## Website
+The offical [**AmpleForthGold**](https://ampleforth.gold/) website can be found [here](https://ampleforth.gold/). 
+
+## Purchase of AAU tokens
+AmpleForthGold AAU ERC20 tokens can be purchased on [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734). 
+
 ## Key Dates
 ### 2020/08/25 Initial Token sale, initial liquidity available.
-On the above date, AmpleForthGold tokens will be available for purchase. Initial liquidity will go live on [*UniSwap*](https://uniswap.org/) on 25th August 2020. This will be 10% of the AAU tokens in existence. The tokens will not be rebased initially and will be freely available to all. Read [**the Gold Paper**](https://raw.githubusercontent.com/AmpleForthGold/AmpleForthGold/master/TheGoldPaper.pdf) for details on the distribution of tokens. 
+On the above date, AmpleForthGold tokens will be available for purchase. Initial liquidity will go live on [*UniSwap*](https://app.uniswap.org/#/swap?outputCurrency=0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734) on 25th August 2020. This will be 10% of the AAU tokens in existence. The tokens will not be rebased initially and will be freely available to all. Read [**the Gold Paper**](https://raw.githubusercontent.com/AmpleForthGold/AmpleForthGold/master/TheGoldPaper.pdf) for details on the distribution of tokens. 
 
 Exact time shall be 12:12am NZST on 25th August 2020.
 

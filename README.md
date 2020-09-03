@@ -6,7 +6,7 @@ Synthetic Gold forged using Ampleforth technology.
 AmpleForthGold is a decentralized elastic supply protocol based on the [*Ampleforth/uFragments*](https://github.com/ampleforth/uFragments) Implementation. It maintains a stable unit price in gold by adjusting supply directly to and from wallet holders. For a complete description of the protocol and the rationale behind the project, you can read [**the Gold Paper**](https://raw.githubusercontent.com/AmpleForthGold/AmpleForthGold/master/TheGoldPaper.pdf).
 
 ## Website
-The official [**AmpleForthGold**](https://ampleforth.gold/) website can be found [here](https://ampleforth.gold/). 
+The official [**AmpleForthGold**](https://afgold.org/) website can be found [here](https://afgold.org/). 
 
 ## Purchase of AmpleForthGold AAU ERC20 tokens
 AmpleForthGold AAU ERC20 tokens can be purchased on [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734). 

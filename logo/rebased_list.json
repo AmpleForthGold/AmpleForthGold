@@ -1,0 +1,68 @@
+{
+  "name": "ReBased Money",
+  "logoURI": "https://raw.githubusercontent.com/AmpleForthGold/AmpleForthGold/master/logo/Logo.svg",
+  "keywords": [
+    "Rebased",
+    "Ampleforth",
+    "Based",
+    "Gold"
+  ],
+  "timestamp": "2020-08-26T23:30:57.113+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734",
+      "name": "AmpleForthGold",
+      "symbol": "AAU",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/AmpleForthGold/AmpleForthGold/master/logo/Logo.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf911a7ec46a2c6fa49193212fe4a2a9b95851c27",
+      "name": "Antiample",
+      "symbol": "XAMP",
+      "decimals": 9
+    },
+    {
+      "chainId": 1,
+      "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+      "name": "Ampleforth",
+      "symbol": "AMPL",
+      "decimals": 9
+    },
+    {
+      "chainId": 1,
+      "address": "0x68a118ef45063051eac49c7e647ce5ace48a68a5",
+      "name": "Based Money",
+      "symbol": "BASED",
+      "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0xe17f017475a709de58e976081eb916081ff4c9d5",
+      "name": "RMPL",
+      "symbol": "RMPL",
+      "decimals": 9
+    },
+    {
+      "chainId": 1,
+      "address": "0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a",
+      "name": "YAMv2",
+      "symbol": "YAMV2",
+      "decimals": 24
+    },
+    {
+      "chainId": 1,
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "decimals": 18
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 5
+  }
+}

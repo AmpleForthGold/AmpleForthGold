@@ -17,6 +17,9 @@ On the above date, AmpleForthGold tokens will be available for purchase. Initial
 
 Exact time shall be 12:12am NZST on 25th August 2020.
 
+### Initial rebasement
+The inital rebasement has been moved ***forward*** to 2020/09/08. This is a ***brutal*** rebasement that should align the AAU price with that of gold. A countdown to the rebasement event can be found on our [website here](https://www.afgold.org/rebase).
+
 ### 2020/09/15 The Rebasement begins
 Rebasement of the AAU tokens to the price of one ounce of Gold shall begin. This shall affect the quantity of token you hold, but does not affect the percentage of the market cap you hold. See the original [*Ampleforth Whitepaper*](https://www.ampleforth.org/papers/) for details.
 

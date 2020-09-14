@@ -12,16 +12,19 @@ The official [**AmpleForthGold**](https://afgold.org/) website can be found [her
 AmpleForthGold AAU ERC20 tokens can be purchased on [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734). 
 
 ## Key Dates
-### 2020/08/25 Initial Token sale, initial liquidity available.
+### 2020/08/25 Initial Token sale, initial liquidity available. (complete!)
 On the above date, AmpleForthGold tokens will be available for purchase. Initial liquidity will go live on [*UniSwap*](https://app.uniswap.org/#/swap?outputCurrency=0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734) on 25th August 2020. This will be 10% of the AAU tokens in existence. The tokens will not be rebased initially and will be freely available to all. Read [**the Gold Paper**](https://raw.githubusercontent.com/AmpleForthGold/AmpleForthGold/master/TheGoldPaper.pdf) for details on the distribution of tokens. 
 
 Exact time shall be 12:12am NZST on 25th August 2020.
 
-### Initial rebasement
+### Initial rebasement. (complete!)
 The inital rebasement has been moved ***forward*** to 2020/09/08. This is a ***brutal*** rebasement that should align the AAU price with that of gold. A countdown to the rebasement event can be found on our [website here](https://www.afgold.org/rebase-log).
 
-### 2020/09/15 The Rebasement begins
+### 2020/09/15 The Rebasement begins. (complete!)
 Rebasement of the AAU tokens to the price of one ounce of Gold shall begin. This shall affect the quantity of token you hold, but does not affect the percentage of the market cap you hold. See the original [*Ampleforth Whitepaper*](https://www.ampleforth.org/papers/) for details.
+
+### 2020/09/15 User controlled rebase events. (complete!)
+Any user can now generate their own rebase events. Details and a big golden button can be found [here](https://www.afgold.org/rebase-generator).
 
 ### 2020/10/15 Midas Launches
 Most (90%+) AmpleForthGold tokens will (eventually) be distributed to the holders of AmpleForthGold tokens via Midas. Read [**the Gold Paper**](https://raw.githubusercontent.com/AmpleForthGold/AmpleForthGold/master/TheGoldPaper.pdf) for details on Midas and the distribution of tokens.   

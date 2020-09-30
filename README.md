@@ -14,23 +14,6 @@ AmpleForthGold AAU ERC20 tokens can be purchased on [Uniswap](https://app.uniswa
 ## Project milstones
 Project milestones are maintained on our primary website: [**AmpleForthGold**](https://afgold.org/).
 
-### 2020/08/25 Initial Token sale, initial liquidity available. (complete!)
-On the above date, AmpleForthGold tokens will be available for purchase. Initial liquidity will go live on [*UniSwap*](https://app.uniswap.org/#/swap?outputCurrency=0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734) on 25th August 2020. This will be 10% of the AAU tokens in existence. The tokens will not be rebased initially and will be freely available to all. Read [**the Gold Paper**](https://raw.githubusercontent.com/AmpleForthGold/AmpleForthGold/master/TheGoldPaper.pdf) for details on the distribution of tokens. 
-
-Exact time shall be 12:12am NZST on 25th August 2020.
-
-### Initial rebasement. (complete!)
-The initial rebasement has been moved ***forward*** to 2020/09/08. This is a ***brutal*** rebasement that should align the AAU price with that of gold. A countdown to the rebasement event can be found on our [website here](https://www.afgold.org/rebase-log).
-
-### 2020/09/15 The Rebasement begins. (complete!)
-Rebasement of the AAU tokens to the price of one ounce of Gold shall begin. This shall affect the quantity of token you hold, but does not affect the percentage of the market cap you hold. See the original [*Ampleforth Whitepaper*](https://www.ampleforth.org/papers/) for details.
-
-### 2020/09/15 User controlled rebase events. (complete!)
-Any user can now generate their own rebase events. Details and a big golden button can be found [here](https://www.afgold.org/rebase-generator).
-
-### 2020/10/15 Midas Launches
-Most (90%+) AmpleForthGold tokens will (eventually) be distributed to the holders of AmpleForthGold tokens via Midas. Read [**the Gold Paper**](https://raw.githubusercontent.com/AmpleForthGold/AmpleForthGold/master/TheGoldPaper.pdf) for details on Midas and the distribution of tokens.   
-
 ## ERC20 Rebaseing Contract
 This repository is a collection of smart contracts that implement the AmpleForthGold protocol on the Ethereum blockchain.
 ### Mainnet (Ethereum Blockchain)
@@ -55,6 +38,13 @@ The Primary Rebase contract is called [Orchestrator.sol](https://github.com/Ampl
 
 ## Price oracle
 The (minimilist) price oracle [RebaseDelta.sol](https://github.com/AmpleForthGold/uFragments/blob/master/contracts/RebaseDelta.sol) can be found at location [0x7d45fd7e1d1afd48da7f10093d8d1ee5dea8cf08](https://etherscan.io/address/0x7d45fd7e1d1afd48da7f10093d8d1ee5dea8cf08) on the ethereum blockchain. 
+
+## uFragments (ERC20) proxy burning.
+Ampleforth recently deceided to deploy a new contract because of the recent KuCoin Hack. The new contract blocked certain addresses associated with the KuCoin hack. The AmpleForthGold team are opposed to that sort of behaviour as it allows for governments and/or powerful entities to interfere with the supply of an ERC20 token. It also allows for an unlimited rug-pull at any time. With this sort of proxy, it does not matter if you hold your private keys, because the contract owners can take your coins whenever they feel like it. 
+
+The AmpleForthGold implementation uses the same openzeppelin proxy as the original ampleforth project. Thus, as it currently stands, the AmpleForthGold Project could (at any time) deploy a new ECR20 contract that changes pretty much any aspect of the AAU token. Now that was fine for when we were still in a development phase, but we beleive that the ERC20 code for AmpleForthGold is now solid enough to allow us to 'burn the owenership keys' for the openzepplin proxy. 
+
+The AmpleForthGold team will burn the uFragments proxy keys in the next few weeks once we have done a proper internal audit of the codebase. This should happen before the end of October 2020. Once this is done then your tokens are your tokens - we will not be able to help you if you loose your keys or send your tokens to the worng address. 
 
 ## MIDAS
 ### Midas Distributor

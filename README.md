@@ -53,3 +53,10 @@ The Primary Rebase contract is called [Orchestrator.sol](https://github.com/Ampl
 
 ## Price oracle
 The (minimilist) price oracle [RebaseDelta.sol](https://github.com/AmpleForthGold/uFragments/blob/master/contracts/RebaseDelta.sol) can be found at location [0x7d45fd7e1d1afd48da7f10093d8d1ee5dea8cf08](https://etherscan.io/address/0x7d45fd7e1d1afd48da7f10093d8d1ee5dea8cf08) on the ethereum blockchain. 
+
+## MIDAS
+### Midas Distributor
+The Midas distributor contract can be found at [0xaea0a086ce5584cdffce2930497b38c937cbb24e](https://etherscan.io/address/0xaea0a086ce5584cdffce2930497b38c937cbb24e). The Midas distributor shall hold the locked pool of AAU tokens to be distributed via Midas Staking Agents. 
+
+### Midas Agents
+The Midas Agent for AAU-ETH-v2 shall be released shortly. 

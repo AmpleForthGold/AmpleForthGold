@@ -11,7 +11,9 @@ The official [**AmpleForthGold**](https://afgold.org/) website can be found [her
 ## Purchase of AmpleForthGold AAU ERC20 tokens
 AmpleForthGold AAU ERC20 tokens can be purchased on [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734). 
 
-## Key Dates
+## Project milstones
+Project milestones are maintained on our primary website: [**AmpleForthGold**](https://afgold.org/).
+
 ### 2020/08/25 Initial Token sale, initial liquidity available. (complete!)
 On the above date, AmpleForthGold tokens will be available for purchase. Initial liquidity will go live on [*UniSwap*](https://app.uniswap.org/#/swap?outputCurrency=0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734) on 25th August 2020. This will be 10% of the AAU tokens in existence. The tokens will not be rebased initially and will be freely available to all. Read [**the Gold Paper**](https://raw.githubusercontent.com/AmpleForthGold/AmpleForthGold/master/TheGoldPaper.pdf) for details on the distribution of tokens. 
 

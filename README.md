@@ -56,3 +56,6 @@ The Midas distributor contract can be found at [0xaea0a086ce5584cdffce2930497b38
 2. The Midas Agent for AAU-PAXG-v2 is TBD.
 2. The Midas Agent for AAU-PMGT-v2 is TBD.
 2. The Midas Agent for AAU-AMPL-v2 is TBD.
+
+All Midas Agents are currently locked and cannot be used. They will be unlocked when final verification has occured and they have been formally announced. 
+

@@ -14,7 +14,7 @@ AmpleForthGold AAU ERC20 tokens can be purchased on [Uniswap](https://app.uniswa
 ## Project milstones
 Project milestones are maintained on our primary website: [**AmpleForthGold**](https://www.afgold.org/roadmap).
 
-## ERC20 Rebaseing Contract
+## ERC20 Rebasing Contract
 This repository is a collection of smart contracts that implement the AmpleForthGold protocol on the Ethereum blockchain.
 ### Mainnet (Ethereum Blockchain)
 #### ERC20 Token Location ([UFragments.sol](https://github.com/AmpleForthGold/uFragments/blob/master/contracts/UFragments.sol))
@@ -40,11 +40,11 @@ The Primary Rebase contract is called [Orchestrator.sol](https://github.com/Ampl
 The (minimalist) price oracle [RebaseDelta.sol](https://github.com/AmpleForthGold/uFragments/blob/master/contracts/RebaseDelta.sol) can be found at location [0x7d45fd7e1d1afd48da7f10093d8d1ee5dea8cf08](https://etherscan.io/address/0x7d45fd7e1d1afd48da7f10093d8d1ee5dea8cf08) on the ethereum blockchain. 
 
 ## uFragments (ERC20) proxy burning
-Ampleforth recently decided to deploy a new contract because of the recent KuCoin Hack. The new contract blocked certain addresses associated with the KuCoin hack. The AmpleForthGold team are opposed to that sort of behaviour as it allows for governments and/or powerful entities to interfere with the supply of an ERC20 token. It also allows for an unlimited rug-pull at any time. With this sort of proxy, it does not matter if you hold your private keys, because the contract owners can take your coins whenever they feel like it. 
+Ampleforth recently decided to deploy a new contract because of the recent KuCoin Hack. The new contract blocked particular addresses associated with the KuCoin hack. The AmpleForthGold team are opposed to that sort of behaviour as it allows for governments and/or powerful entities to interfere with the supply of an ERC20 token. It also enables for an unlimited rug-pull at any time. With this sort of proxy, it does not matter if you hold your private keys, because the contract owners can take your coins whenever they feel like it. 
 
-The AmpleForthGold implementation uses the same openzeppelin proxy as the original Ampleforth project. Thus, as it currently stands, the AmpleForthGold Project could (at any time) deploy a new ECR20 contract that changes pretty much any aspect of the AAU token. That was fine when we were still in a development phase, but we believe that the ERC20 code for AmpleForthGold is now solid enough to allow us to 'burn the ownership keys' for the openzepplin proxy. 
+The AmpleForthGold implementation uses the same openzeppelin proxy as the original Ampleforth project. Thus, as it currently stands, the AmpleForthGold Project could (at any time) deploy a new ERC20 contract that changes pretty much any aspect of the AAU token. That was fine when we were still in a development phase, but we believe that the ERC20 code for AmpleForthGold is now solid enough to allow us to 'burn the ownership keys' for the openzepplin proxy. 
 
-The AmpleForthGold team will burn the uFragments proxy keys in the next few weeks once we have done a proper internal audit of the codebase. This should happen before the end of October 2020. Once this is done then your tokens are your tokens - we will not be able to help you if you lose your keys or send your tokens to the wrong address. 
+The AmpleForthGold team will burn the uFragments proxy keys in the next few weeks once we have done a proper internal audit of the codebase. The burning of the proxy keys should happen before the end of October 2020. Once this has occurred, then your tokens are your tokens - we will not be able to help you if you lose your keys or send your tokens to the wrong address. 
 
 ## MIDAS
 ### Midas Distributor

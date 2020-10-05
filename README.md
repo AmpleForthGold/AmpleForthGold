@@ -53,7 +53,7 @@ The Midas distributor contract can be found at [0xaea0a086ce5584cdffce2930497b38
 ### Midas Agents
 1. The Midas Agent for AAU (AAU) is located at [0x184B9614C46db115815fac4707B36347B98acfb3](https://etherscan.io/address/0x184B9614C46db115815fac4707B36347B98acfb3)
 2. The Midas Agent for AAU-ETH-v2 is located at [0x02Fc1453473a1FcCc2ac2D5f50aE5a933AFEc26e](https://etherscan.io/address/0x02Fc1453473a1FcCc2ac2D5f50aE5a933AFEc26e)
-2. The Midas Agent for AAU-PAXG-v2 is TBD.
+2. The Midas Agent for AAU-PAXG-v2 is located at [0xBEf9348fEE6827D89f4a9767c64b3944D077fd20](https://etherscan.io/address/0xBEf9348fEE6827D89f4a9767c64b3944D077fd20)
 2. The Midas Agent for AAU-PMGT-v2 is TBD.
 2. The Midas Agent for AAU-AMPL-v2 is TBD.
 

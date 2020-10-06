@@ -57,5 +57,5 @@ The Midas distributor contract can be found at [0xaea0a086ce5584cdffce2930497b38
 2. The Midas Agent for AAU-PMGT-v2 is located at [0x9931A24985A1C553D3D24368C19a4a46a8B174Db](https://etherscan.io/address/0x9931A24985A1C553D3D24368C19a4a46a8B174Db)
 2. The Midas Agent for AAU-AMPL-v2 is located at [0xAa17eA7765c6056f2009888F3e77294885c1fA82](https://etherscan.io/address/0xAa17eA7765c6056f2009888F3e77294885c1fA82)
 
-All Midas Agents are currently locked and cannot be used. They will be unlocked once final verification has occurred, and a formal announcement made. 
+The AAU Agent shall go live at 8pm Tuesdays 6th October 2020 GMT. Other agents will follow progressivly. 
 

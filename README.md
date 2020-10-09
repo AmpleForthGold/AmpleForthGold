@@ -24,8 +24,8 @@ This repository is a collection of smart contracts that implement the AmpleForth
 ## Token Holders
 |Holder|Quantity|Address|
 |:---|:---|:---|
-|Founders (Midas)|45000000| [	0x0f9dd348cdbde17f27f63d4a985f70c2e2beedd5](https://etherscan.io/token/0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734?a=0x0f9dd348cdbde17f27f63d4a985f70c2e2beedd5)|
-|Founders (Uniswap Liquidity) |5000000| [	0x173015cf1260f1fa024bde2e08845aed61c99e3b](https://etherscan.io/token/0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734?a=0x173015cf1260f1fa024bde2e08845aed61c99e3b)|
+|Founders (Midas)|> 90% of AAU| [	0x0f9dd348cdbde17f27f63d4a985f70c2e2beedd5](https://etherscan.io/token/0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734?a=0x0f9dd348cdbde17f27f63d4a985f70c2e2beedd5)|
+|Founders (Uniswap Liquidity) |> 10% of AAU| [	0x173015cf1260f1fa024bde2e08845aed61c99e3b](https://etherscan.io/token/0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734?a=0x173015cf1260f1fa024bde2e08845aed61c99e3b)|
 
 ### Uniswap/Unicrypt locked liquidity
 Liquidity was provided to uniswap on 2020/08/25 by the founding members of AmpleForthGold. That Uniswap liquidity has been locked on [Unicrypt](https://unicrypt.network/uniswap-browser/pair/0x2d0C51C1282c31d71F035E15770f3214e20F6150). The release dates are staggered over a period of 5 months. The release dates are an estimate based on calculations and as per the details outlined in [**the Gold Paper**](https://raw.githubusercontent.com/AmpleForthGold/AmpleForthGold/master/TheGoldPaper.pdf).

@@ -24,14 +24,11 @@ This repository is a collection of smart contracts that implement the AmpleForth
 ## Token Holders
 |Holder|Quantity|Address|
 |:---|:---|:---|
-|Founders (Midas)|> 90% of AAU| [	0x0f9dd348cdbde17f27f63d4a985f70c2e2beedd5](https://etherscan.io/token/0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734?a=0x0f9dd348cdbde17f27f63d4a985f70c2e2beedd5)|
-|Founders (Uniswap Liquidity) |> 10% of AAU| [	0x173015cf1260f1fa024bde2e08845aed61c99e3b](https://etherscan.io/token/0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734?a=0x173015cf1260f1fa024bde2e08845aed61c99e3b)|
+|Founders (Midas)| >=90% of AAU| [0xaea0a086ce5584cdffce2930497b38c937cbb24e](https://etherscan.io/token/0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734?a= 0xaea0a086ce5584cdffce2930497b38c937cbb24e)|
+|Founders (Uniswap Liquidity) | >=10% of AAU| [	0x173015cf1260f1fa024bde2e08845aed61c99e3b](https://etherscan.io/token/0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734?a=0x173015cf1260f1fa024bde2e08845aed61c99e3b)|
 
 ### Uniswap/Unicrypt locked liquidity
 Liquidity was provided to uniswap on 2020/08/25 by the founding members of AmpleForthGold. That Uniswap liquidity has been locked on [Unicrypt](https://unicrypt.network/uniswap-browser/pair/0x2d0C51C1282c31d71F035E15770f3214e20F6150). The release dates are staggered over a period of 5 months. The release dates are an estimate based on calculations and as per the details outlined in [**the Gold Paper**](https://raw.githubusercontent.com/AmpleForthGold/AmpleForthGold/master/TheGoldPaper.pdf).
-
-### Midas AAU Tokens locked 
-100% of the Midas AAU tokens (45000000) were locked using contract [0x34628b19f2267f31e4aCEe652A234216903e2385](https://etherscan.io/address/0x34628b19f2267f31e4acee652a234216903e2385#code). They have been locked until 22nd of September 2020.
 
 ## Rebase Design Information
 The Primary Rebase contract is called [Orchestrator.sol](https://github.com/AmpleForthGold/uFragments/blob/master/contracts/Orchestrator.sol). It can be found on the ethereum blockchain at address [0xac5f9327a89523c09cf38be79f65f3220511e8b9](https://etherscan.io/address/0xac5f9327a89523c09cf38be79f65f3220511e8b9). Further details can be found in the [rebase design notes](https://raw.githubusercontent.com/AmpleForthGold/AmpleForthGold/master/ReBasePaper.pdf). 

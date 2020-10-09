@@ -60,7 +60,7 @@ The AAU Agent shall go live at 8pm Tuesdays 6th October 2020 GMT. Other agents w
 AAU has several UniSwap-V2 pools that can be used to buy/sell AAU.
 |Pair|Description|Address|
 |:---|:---|:---|
-|AAU-ETH-v2| Ethereum exchange|xx|
-|AAU-PMGT-v2| Perth Mint Gold Token Exchange| xx|
-|AAU-AMPL-v2| Ampleforth Exchange|xx|
-|PAXG-AAU-v2| PAX Gold Exchange |xx|
+|AAU-ETH-v2| Ethereum exchange|[0x2d0c51c1282c31d71f035e15770f3214e20f6150](https://etherscan.io/address/0x2d0c51c1282c31d71f035e15770f3214e20f6150)|
+|AAU-PMGT-v2| Perth Mint Gold Token Exchange| [0x15f7b9a0c5fe2f33d3dbdf1bcdb1f6dc7bed10b1](https://etherscan.io/address/0x15f7b9a0c5fe2f33d3dbdf1bcdb1f6dc7bed10b1)|
+|AAU-AMPL-v2| Ampleforth Exchange|[0xcdc3d2c8c79091b9b63a70a98716e3b40d1299d4](https://etherscan.io/address/0xcdc3d2c8c79091b9b63a70a98716e3b40d1299d4)|
+|PAXG-AAU-v2| PAX Gold Exchange |[0x225c01e8c5310714bcb8e8cef68d5814348efdeb](https://etherscan.io/address/0x225c01e8c5310714bcb8e8cef68d5814348efdeb)|

@@ -9,7 +9,10 @@ AmpleForthGold is a decentralized elastic supply protocol based on the [*Amplefo
 The official [**AmpleForthGold**](https://afgold.org/) website can be found [here](https://afgold.org/). 
 
 ## Purchase of AmpleForthGold AAU ERC20 tokens
-AmpleForthGold AAU ERC20 tokens can be purchased on [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734). 
+[**AmpleForthGold**](https://afgold.org/) AAU ERC20 tokens can be purchased on [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0x8E54954B3Bbc07DbE3349AEBb6EAFf8D91Db5734). 
+
+## Midas (AmpleForthGold Staking)
+[**AmpleForthGold**](https://afgold.org/) AAU can be staked on [**Midas**](https://www.afgold.org/staking).
 
 ## Project milstones
 Project milestones are maintained on our primary website: [**AmpleForthGold**](https://www.afgold.org/roadmap).

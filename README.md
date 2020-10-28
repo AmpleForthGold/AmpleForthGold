@@ -39,13 +39,6 @@ The Primary Rebase contract is called [Orchestrator.sol](https://github.com/Ampl
 ## Price oracle
 The (minimalist) price oracle [RebaseDelta.sol](https://github.com/AmpleForthGold/uFragments/blob/master/contracts/RebaseDelta.sol) can be found at location [0x7d45fd7e1d1afd48da7f10093d8d1ee5dea8cf08](https://etherscan.io/address/0x7d45fd7e1d1afd48da7f10093d8d1ee5dea8cf08) on the ethereum blockchain. 
 
-## uFragments (ERC20) proxy burning
-Ampleforth recently decided to deploy a new contract because of the recent KuCoin Hack. The new contract blocked particular addresses associated with the KuCoin hack. The AmpleForthGold team are opposed to that sort of behaviour as it allows for governments and/or powerful entities to interfere with the supply of an ERC20 token. It also enables for an unlimited rug-pull at any time. With this sort of proxy, it does not matter if you hold your private keys, because the contract owners can take your coins whenever they feel like it. 
-
-The AmpleForthGold implementation uses the same openzeppelin proxy as the original Ampleforth project. Thus, as it currently stands, the AmpleForthGold Project could (at any time) deploy a new ERC20 contract that changes pretty much any aspect of the AAU token. That was fine when we were still in a development phase, but we believe that the ERC20 code for AmpleForthGold is now solid enough to allow us to 'burn the ownership keys' for the openzepplin proxy. 
-
-The AmpleForthGold team will burn the uFragments proxy keys in the next few weeks once we have done a proper internal audit of the codebase. The burning of the proxy keys should happen before the end of October 2020. Once this has occurred, then your tokens are your tokens - we will not be able to help you if you lose your keys or send your tokens to the wrong address. 
-
 ## MIDAS
 ### Midas Distributor
 The Midas distributor contract can be found at [0xaea0a086ce5584cdffce2930497b38c937cbb24e](https://etherscan.io/address/0xaea0a086ce5584cdffce2930497b38c937cbb24e). The Midas distributor shall hold the locked pool of AAU tokens to be distributed via Midas Staking Agents. 

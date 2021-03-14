@@ -1,3 +1,9 @@
+# PLEASE NOTE THIS PROJECT HAS BEEN SHUT DOWN DUE TO THE PRICE OF GAS.
+The price of gas made the project unviable.
+The team appologises to all involved.
+---
+---
+
 # The AmpleForthGold Project  
 
 Synthetic Gold forged using Ampleforth technology.
